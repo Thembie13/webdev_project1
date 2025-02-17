@@ -1,1 +1,1 @@
-This is my frist website for my web development class 
+This is my first website for my web development class 
